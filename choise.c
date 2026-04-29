@@ -32,7 +32,7 @@ int main(){
          {
             histor[coinc] =player_namber;
             coinc++;
-\             printf("Вы не угадали число больше");
+             printf("Вы не угадали число больше");
          }
           else if(player_namber>secret_namber)
          {
